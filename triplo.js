@@ -1,4 +1,4 @@
-export default function Triplo(numero){
+export default function triplo(numero){
     if(numero%3==0){
         return true;
     }else{
